@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001559112177150*0342756193145863830,z0000001559112324008*4595070544945272332,z0000001559112395225*7406238361037781431,z0000001559114645291*3745007281263105238</id>
+	<updated>2019-05-29T07:24:11Z</updated>
+	<author>
+		<name>Rhetoric Support</name>
+		<email>hello@rhetoriccoffee.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001559112177150*0342756193145863830</id>
+		<updated>2019-05-29T07:24:11Z</updated>
+		<content></content>
+		<apps:property name='from' value='AmericanExpress@welcome.aexp.com'/>
+		<apps:property name='forwardTo' value='x3p0a4x4b3b1k7q8@rhetoriccoffee.slack.com'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001559112324008*4595070544945272332</id>
+		<updated>2019-05-29T07:24:11Z</updated>
+		<content></content>
+		<apps:property name='to' value='hello@rhetoriccoffee.com'/>
+		<apps:property name='forwardTo' value='j4s9z0k7n0y9x5h4@rhetoriccoffee.slack.com'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001559112395225*7406238361037781431</id>
+		<updated>2019-05-29T07:24:11Z</updated>
+		<content></content>
+		<apps:property name='from' value='AmericanExpress@welcome.aexp.com'/>
+		<apps:property name='to' value='hello@rhetoriccoffee.com'/>
+		<apps:property name='label' value='financial'/>
+		<apps:property name='forwardTo' value='ops+financials@rhetoriccoffee.com'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001559114645291*3745007281263105238</id>
+		<updated>2019-05-29T07:24:11Z</updated>
+		<content></content>
+		<apps:property name='from' value='samanthanluchans@gmail.com'/>
+		<apps:property name='to' value='hello@rhetoriccoffee.com'/>
+		<apps:property name='label' value='customer'/>
+		<apps:property name='forwardTo' value='j7o0h4u5l4l4s1d3@rhetoriccoffee.slack.com'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
